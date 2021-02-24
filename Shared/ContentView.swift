@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Test123")
+        Text("GitHub App")
     }
 }
 
